@@ -9,11 +9,11 @@
     "@actions/cache": "^1.0.6",
     "@actions/core": "^1.2.6",
     "@actions/exec": "^1.0.4",
-    "@types/recursive-readdir": "^2.2.0",
+    "@types/recursive-readdir": "^2.2.1",
     "actions-exec-listener": "0.1.0",
     "crypto": "^1.0.1",
     "native-promise-pool": "^3.16.0",
-    "recursive-readdir": "^2.2.2",
+    "recursive-readdir": "^2.2.3",
     "string-format": "^2.0.0",
     "typescript-is": "^0.17.1"
   },
